@@ -1,5 +1,5 @@
 # bpe_quadrotor_formation
-Repository with leader-follower formation tracking control of quadrotor UAVs using bearing measurements
+Repository with the code that was used to perform simulations and experiment for the paper _Leader-Follower Formation Tracking Control of Quadrotor UAVs Using Bearing Measurements_.
 
 
 _Code will be released upon paper acceptance_
