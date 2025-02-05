@@ -1,11 +1,8 @@
 # bpe_quadrotor_formation
-Repository with the code that was used to perform simulations and experiment for the paper _Leader-Follower Formation Tracking Control of Quadrotor UAVs Using Bearing Measurements_.
-
-
 **_Code will be released upon paper acceptance_**
 
 # Leader-follower formation tracking control of quadrotor UAVs using bearing measurements
-This repository was used to perform the experiments discussed in "Leader-follower formation tracking control of quadrotor UAVs using bearing measurements". 
+This repository was used to perform the experiments discussed in _"Leader-Follower Formation Tracking Control of Quadrotor UAVs Using Bearing Measurements"_. 
 The theory in this paper concerns the formation tracking problem of a group of quadrotor UAVs under a limited sensing graph topology.
 Agents only have access to bearing measurements, as well as relative velocity with respect to other agents.
 Besides that, they have access to their own attitude.
