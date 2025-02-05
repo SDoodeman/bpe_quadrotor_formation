@@ -1,4 +1,4 @@
-# bpe_quadrotor_formation
+# bpe_quadrotor
 **_Code will be released upon paper acceptance_**
 
 # Leader-follower formation tracking control of quadrotor UAVs using bearing measurements
